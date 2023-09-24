@@ -1,6 +1,6 @@
 from random import *
 
-print("\n")
+print(" \n ")
 print("There are three choices to select for user and computer \n\n")
 
 print("======== Rules for winning this game ========== \n")
